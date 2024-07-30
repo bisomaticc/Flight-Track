@@ -1,0 +1,30 @@
+.App {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: opacity 1s ease-in-out; /* Transition for opacity */
+  opacity: 0.6;
+  z-index: -1;
+}
+
+.overlay {
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+
+h1, p {
+  margin: 0;
+  padding: 0;
+}
