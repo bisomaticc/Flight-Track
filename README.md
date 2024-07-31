@@ -44,22 +44,22 @@ Users are required to provide notification preferences during signup, which can 
    </p>
    <p align="center"><strong>Here user can enter Airline or Flight Number and Date to get status of their flight they get redirected to another page with all details of flight /strong></p>
 
-3. **Flight Details**
+2. **Flight Details**
    <p align="center">
   
-       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b" alt="Home Page" />
+       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b" alt="Home" />
 
    </p>
    <p align="center"><strong>Users can enter other details as well to search their flight with date being mandatory</strong></p>
 
-4. **Login**
+3. **Login**
    <p align="center">
       <img src="https://github.com/user-attachments/assets/cc7bb8bb-7824-4620-a2e1-8562e0f2199a" alt="Home Page" />
 
    </p>
    <p align="center"><strong>Users can login once they are signed up </strong></p>
 
-5. **SignUp Page**
+4. **SignUp Page**
    <p align="center">
      
       <img src="https://github.com/user-attachments/assets/1922453f-abcb-4199-a34c-296a1ee65ac7" alt="Home Page" />
@@ -67,14 +67,14 @@ Users are required to provide notification preferences during signup, which can 
    </p>
    <p align="center"><strong>SignUp Page</strong></p>
 
-6. **Flight Success Search**
+5. **Flight Success Search**
    <p align= "center">
 
     <img src="https://github.com/user-attachments/assets/d8090250-3696-4205-91b2-e677753b2135" alt="Home Page" />
       
    </p>
      <p align="center"><strong>SignUp Page</strong></p>
-7.**Success page redirect after login**
+6.**Success page redirect after login**
    <p align="center">
       
       <img src="https://github.com/user-attachments/assets/653b611d-4521-4c97-833b-2d9d9c1353c6" alt="Home Page" />
