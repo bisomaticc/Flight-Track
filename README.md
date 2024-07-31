@@ -47,7 +47,7 @@ Users are required to provide notification preferences during signup, which can 
 2. **Flight Details**
    <p align="center">
   
-       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b" alt="Home Page" />
+       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b](https://github-production-user-asset-6210df.s3.amazonaws.com/41017269/353598031-a9ce435a-fc91-4c1a-8931-c366d09d367b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240731%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240731T120047Z&X-Amz-Expires=300&X-Amz-Signature=8198511c8b865532eae721d625ee8d78baac54c52a2d988e1ee63edcb543159b&X-Amz-SignedHeaders=host&actor_id=41017269&key_id=0&repo_id=835879495" alt="Home Page" />
 
    </p>
    <p align="center"><strong>Users can enter other details as well to search their flight with date being mandatory</strong></p>
