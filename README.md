@@ -29,7 +29,7 @@ Users are required to provide notification preferences during signup, which can 
 
  To keep track of status updates of a flight I had to make two different databases then compare them to check if the flight status is changed or not whenever its changed if the user has selected notification he will get notified ot the users who are not logged in can still check the status of particular flight by entering data,airline,departure airport,arrival airport etc
 
- user login and signup has password encryption with help of bycript and to handle messaging and email notification duties i had to use twilio and MIMEText to automate sending email to users. In frontend I had to build componet in react using MUI or Material-UI added multiple pages with link to redirected to homepage searching for flight out had a lot of options instead of being 
+ user login and signup has password encryption with help of bycrypt and to handle messaging and email notification duties i had to use twilio and MIMEText to automate sending email to users. In frontend I had to build componet in react using MUI or Material-UI added multiple pages with link to redirected to homepage searching for flight out had a lot of options instead of being 
 
  dependent on a single flight number or date of flight user can choose a lot of things to search for his flight made seprate page for signup,login,inlogin(page you are redirected to after login )
 
@@ -47,7 +47,7 @@ Users are required to provide notification preferences during signup, which can 
 2. **Flight Details**
    <p align="center">
   
-       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b" alt="Home" />
+       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b" alt="Home Page" />
 
    </p>
    <p align="center"><strong>Users can enter other details as well to search their flight with date being mandatory</strong></p>
