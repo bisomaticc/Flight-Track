@@ -43,7 +43,7 @@ User login and signup has password encryption with help of bcrypt and to handle 
 
 3. **Login**
    <p align="center">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/41017269/353598031-a9ce435a-fc91-4c1a-8931-c366d09d367b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240731%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240731T111000Z&X-Amz-Expires=300&X-Amz-Signature=d18a9f8d61d35ce5b599bdad12a58cc18e72c503f2728df999dafa30c4366e96&X-Amz-SignedHeaders=host&actor_id=41017269&key_id=0&repo_id=835879495" alt="Login Page" />
+      <img src="https://github.com/user-attachments/assets/301d98ef-37cb-4f15-9fcf-c7043e083861" alt="Login Page" />
    </p>
    <p align="center"><strong>Users can login once they are signed up</strong></p>
 
