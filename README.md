@@ -49,3 +49,39 @@ User login and signup has password encryption with help of bcrypt and to handle 
 
 4. **SignUp Page**
    <p align="center">
+      <img src="https://github.com/user-attachments/assets/1922453f-abcb-4199-a34c-296a1ee65ac7" alt="SignUp Page" />
+   </p>
+   <p align="center"><strong>SignUp Page</strong></p>
+
+5. **Flight Success Search**
+   <p align="center">
+      <img src="https://github.com/user-attachments/assets/d8090250-3696-4205-91b2-e677753b2135" alt="Flight Success Search" />
+   </p>
+   <p align="center"><strong>Flight Success Search</strong></p>
+
+6. **Success page redirect after login**
+   <p align="center">
+      <img src="https://github.com/user-attachments/assets/d7c132a3-e63b-4f5d-9467-ff37acdc16fb" alt="Success Page" />
+   </p>
+   <p align="center"><strong>Success page redirect after login</strong></p>
+
+## How to Run the Project
+
+1.  Clone the GitHub repository to your local machine.
+2.  Configure environment variables for Twilio and email credentials.
+3.  Install required packages using pip.
+    ```
+    pip install -r requirements.txt
+    ```
+4.  Start the Flask server.
+    ```
+    python app.py
+    ```
+5.  Install npm packages for React server.
+    ```
+    npm install -y
+    ```
+6.  Start the React development server.
+    ```
+    npm run dev
+    ```
