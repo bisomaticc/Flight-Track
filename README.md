@@ -29,13 +29,13 @@ User login and signup has password encryption with help of bcrypt and to handle 
 
 ## Screenshots
 
-1. **Home Page**
+1. **Search Flight**
    <p align="center">
       <img src="https://github.com/user-attachments/assets/5454b8cd-2796-4498-a75c-6edaace734e4" alt="Home Page" />
    </p>
    <p align="center"><strong>Here user can enter Airline or Flight Number and Date to get status of their flight they get redirected to another page with all details of flight</strong></p>
 
-2. **Flight Details**
+2. **Search Flight with more options**
    <p align="center">
       <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/41017269/353598031-a9ce435a-fc91-4c1a-8931-c366d09d367b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240731%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240731T120047Z&X-Amz-Expires=300&X-Amz-Signature=8198511c8b865532eae721d625ee8d78baac54c52a2d988e1ee63edcb543159b&X-Amz-SignedHeaders=host&actor_id=41017269&key_id=0&repo_id=835879495" alt="Flight Details" />
    </p>
@@ -59,7 +59,7 @@ User login and signup has password encryption with help of bcrypt and to handle 
    </p>
    <p align="center"><strong>Flight Success Search</strong></p>
 
-6. **Success page redirect after login**
+6. **Success page redirected after login**
    <p align="center">
       <img src="https://github.com/user-attachments/assets/d7c132a3-e63b-4f5d-9467-ff37acdc16fb" alt="Success Page" />
    </p>
