@@ -64,41 +64,6 @@ Users are required to provide notification preferences during signup, which can 
    </p>
    <p align="center"><strong>SignUp Page</strong></p>
 
-6. **OTP Screenshot**
-   <p align="center">
-      <img src="https://github.com/user-attachments/assets/0d8de760-2c6e-49c9-a846-70cc158b1889" alt="OTP Screenshot" />
-   </p>
-   <p align="center"><strong>OTP Screenshot on Email/Phone</strong></p>
-   
-7. **Filling OTP for Verification**
-   <p align="center">
-      <img src="https://github.com/user-attachments/assets/90ac8859-79d2-4c47-8c14-fa2e0a2683ae" alt="OTP Verification" />
-   </p>
-   <p align="center"><strong>Filling OTP for Verification</strong></p>
-
-9. **Success Notification**
-   <p align="center">
-      <img src="https://github.com/user-attachments/assets/1a2e1245-8029-4921-b1f6-03fbcad76f9a" alt="Success Notification" />
-   </p>
-   <p align="center"><strong>Success Notification</strong></p>
-
-10. **Failed Notification**
-   <p align="center">
-      <img src="https://github.com/user-attachments/assets/a0ef1a86-325f-426b-9cdc-4a9dccd978d7" alt="Failed Notification" />
-   </p>
-   <p align="center"><strong>Failed Notification</strong></p>
-
-11. **User Confirmation for Updates**
-   <p align="center">
-      <img src="https://github.com/user-attachments/assets/def8ff35-8356-4687-a15a-4a88005782b9" alt="User Confirmation" />
-   </p>
-   <p align="center"><strong>User Confirmation for Updates</strong></p>
-
-12. **Update Notification on Email**
-   <p align="center">
-      <img src="https://github.com/user-attachments/assets/414b0e70-9d02-47b6-8f13-009b3ec8b928" alt="Update Notification" />
-   </p>
-   <p align="center"><strong>Update Notification on Email</strong></p>
 
 
 ## How to Run the Project
