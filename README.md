@@ -38,31 +38,49 @@ Users are required to provide notification preferences during signup, which can 
 1. **Home Page**
   
    <p align="center">
-      ![image](https://github.com/user-attachments/assets/5454b8cd-2796-4498-a75c-6edaace734e4)
+      
+      <img src="https://github.com/user-attachments/assets/5454b8cd-2796-4498-a75c-6edaace734e4" alt="Home Page" />
 
    </p>
    <p align="center"><strong>Here user can enter Airline or Flight Number and Date to get status of their flight they get redirected to another page with all details of flight /strong></p>
 
 3. **Flight Details**
    <p align="center">
-      ![image](https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b)
+  
+       <img src="https://github.com/user-attachments/assets/a9ce435a-fc91-4c1a-8931-c366d09d367b" alt="Home Page" />
 
    </p>
    <p align="center"><strong>Users can enter other details as well to search their flight with date being mandatory</strong></p>
 
 4. **Login**
    <p align="center">
-      ![image](https://github.com/user-attachments/assets/cc7bb8bb-7824-4620-a2e1-8562e0f2199a)
+      <img src="https://github.com/user-attachments/assets/cc7bb8bb-7824-4620-a2e1-8562e0f2199a" alt="Home Page" />
 
    </p>
    <p align="center"><strong>Users can login once they are signed up </strong></p>
 
 5. **SignUp Page**
    <p align="center">
-     ![image](https://github.com/user-attachments/assets/1922453f-abcb-4199-a34c-296a1ee65ac7)
+     
+      <img src="https://github.com/user-attachments/assets/1922453f-abcb-4199-a34c-296a1ee65ac7" alt="Home Page" />
 
    </p>
    <p align="center"><strong>SignUp Page</strong></p>
+
+6. **Flight Success Search**
+   <p align= "center">
+
+    <img src="https://github.com/user-attachments/assets/d8090250-3696-4205-91b2-e677753b2135" alt="Home Page" />
+      
+   </p>
+7.**Success page redirect after login**
+   <p align="center>
+
+      
+      <img src="https://github.com/user-attachments/assets/0a4e041b-9a6c-430f-aced-43416cb97c0a" alt="Home Page" />
+
+   </p>
+
 
 
 
