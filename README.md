@@ -74,10 +74,9 @@ Users are required to provide notification preferences during signup, which can 
       
    </p>
 7.**Success page redirect after login**
-   <p align="center>
-
+   <p align="center">
       
-      <img src="https://github.com/user-attachments/assets/0a4e041b-9a6c-430f-aced-43416cb97c0a" alt="Home Page" />
+      <img src="https://github.com/user-attachments/assets/653b611d-4521-4c97-833b-2d9d9c1353c6" alt="Home Page" />
 
    </p>
 
